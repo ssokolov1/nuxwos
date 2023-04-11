@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="nuxeo-server-tomcat-2021.1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/nuxeo-server-tomcat-2021.1.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
