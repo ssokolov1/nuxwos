@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/templates/mongodb/nxserver/lib/mongodb-driver-sync-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/templates/mongodb/nxserver/lib/quartz-mongodb-2.2.0-rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/templates/mongodb/nxserver/lib/bson-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/templates/mongodb/nxserver/lib/mongodb-driver-core-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

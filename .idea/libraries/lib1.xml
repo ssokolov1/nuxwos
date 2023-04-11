@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/lib/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-dataformat-yaml-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-cs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/nuxeo-runtime-tomcat-adapter-2021.1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina-ssi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/log4j-core-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-dataformat-smile-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-dataformat-properties-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-databind-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-dataformat-cbor-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-ko.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-pt-BR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/freemarker-2.3.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-core-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/xercesImpl-2.12.0-nx1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/log4j-slf4j-impl-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/nuxeo-runtime-launcher-2021.1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/commons-lang3-3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ecj-4.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jackson-annotations-2.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-de.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/log4j-jcl-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-zh-CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/tomcat-i18n-ru.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/catalina-tribes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

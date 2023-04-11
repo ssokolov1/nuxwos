@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/bin/bootstrap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/bin/commons-daemon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/bin/tomcat-juli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/bin/nuxeo-launcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

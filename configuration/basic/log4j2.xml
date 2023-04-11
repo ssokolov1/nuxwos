@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration monitorInterval="30">
+        <Appenders>
+
+                <RollingFile name="FILE" fileName="${sys:nuxeo.log.dir}/server.log" filePattern="${sys:nuxeo.log.dir}/server-%d{yyyy-MM-dd}.log.gz" append="true">
+                        <ThresholdFilter level="DEBUG" onMatch="ACCEPT"/>
+                        <PatternLayout pattern="%d{dd/MM/yy HH:mm:ss.SSS} %highlight{%-5level} %-60.60logger %highlight{%msg{ansi}}%n" />
+                        <CronTriggeringPolicy schedule="0 0 0 * * ?" evaluateOnStartup="true" />
+                        <DefaultRolloverStrategy />
+                </RollingFile>
+
+
+                <Console name="CONSOLE" target="SYSTEM_OUT">
+                        <ThresholdFilter level="DEBUG" onMatch="ACCEPT" />
+                        <PatternLayout pattern="%d{dd/MM/yy HH:mm:ss.SSS} %highlight{%-5level} %-60.60logger %highlight{%msg{ansi}}%n" />
+                </Console>
+
+
+        </Appenders>
+
+        <Loggers>
+                <Logger name="org.nuxeo" level="info" />
+
+                <Root level="warn">
+                        <AppenderRef ref="CONSOLE" />
+                        <AppenderRef ref="FILE" />
+                </Root>
+
+        </Loggers>
+</Configuration>
